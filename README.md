@@ -38,12 +38,12 @@ Visualized and interpreted the word clouds to highlight key topics discussed by 
 ## RESULTS
 ### Word Cloud Visualization
 <p float="left">
-  <img src="https://github.com/chiragnemani/PresidentialDebate_2024-ThematicAnalysis/assets/148119942/560e076c-ec51-490b-8de4-91ca52fcc625" width="500" />
-  <img src="https://github.com/chiragnemani/PresidentialDebate_2024-ThematicAnalysis/assets/148119942/fb8cfdae-cb2d-4f08-99af-7c67333c4e38" width="500" />
+  <img src="https://github.com/chiragnemani/PresidentialDebate_2024-ThematicAnalysis/assets/148119942/560e076c-ec51-490b-8de4-91ca52fcc625" width="400" />
+  <img src="https://github.com/chiragnemani/PresidentialDebate_2024-ThematicAnalysis/assets/148119942/fb8cfdae-cb2d-4f08-99af-7c67333c4e38" width="400" />
 </p>
 
 ### Word Frequency Table
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Word_frequency_table](https://github.com/chiragnemani/PresidentialDebate_2024-ThematicAnalysis/assets/148119942/8dfa9183-b175-47c7-9653-c8adc80a36dc)
 
 
